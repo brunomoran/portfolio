@@ -7,7 +7,7 @@ const works = [
         logo: "/images/midokura_logo.jpg",
         company: "Midokura (SONY Group)",
         duration: "April 2024 - Present",
-        description: "Intern as a software engineer in charge of developing a VSCode extension addressed to WebAssembly developers."
+        description: "Intern as a software engineer in charge of developing a VS Code extension addressed to WebAssembly developers."
     }
 ]
 
