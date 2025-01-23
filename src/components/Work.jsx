@@ -6,7 +6,7 @@ const works = [
         title: "Software engineer intern",
         logo: "/images/midokura_logo.jpg",
         company: "Midokura (SONY Group)",
-        duration: "April 2024 - Present",
+        duration: "April 2024 - January 2025",
         description: "Intern as a software engineer in charge of developing a VS Code extension addressed to WebAssembly developers."
     }
 ]
