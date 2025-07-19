@@ -3,6 +3,11 @@ import ProjectCard from "./ProjectCard";
 
 const projects = [
   {
+    title: "TripSense",
+    tags: ["React", "Node.js", "Express", "MongoDB", "TypeScript", "Google Maps API", "Google AI"],
+    description: "My final degree project, a web application that helps users plan their trips and generate itineraries using AI."
+  },
+  {
     title: "UNImate",
     tags: ["Mobile App", "React Native", "Firebase"],
     description: "A mobile app that helps students in their academic journey. Features: Universities information, forums, chats and a matching system.",
@@ -16,11 +21,6 @@ const projects = [
     title: "Formula 1 data analysis",
     tags: ["Python", "Machine Learning", "Data Analysis"],
     description: "A data analysis project that uses machine learning to predict the next winning team in Formula 1. Features: Linear regression, Clustering, Data visualization."
-  },
-  {
-    title: "Access Control System",
-    tags: ["Java", "Flutter", "UI/UX"],
-    description: "A project that uses Java for the backend and Flutter for the frontend, with the objective of learning design patterns and UI/UX principles."
   },
 ];
 

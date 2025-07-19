@@ -32,14 +32,14 @@ const skillItem = [
     desc: "Framework"
   },
   {
-    imgSrc: "/images/tailwindcss.svg",
-    label: "Tailwind CSS",
+    imgSrc: "/images/django.svg",
+    label: "Django",
     desc: "Framework"
   },
   {
-    imgSrc: "/images/flutter.svg",
-    label: "Flutter",
-    desc: "Framework"
+    imgSrc: "/images/nodejs.svg",
+    label: "Node.js",
+    desc: "Backend"
   },
   {
     imgSrc: "/images/mongodb.svg",
