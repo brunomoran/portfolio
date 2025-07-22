@@ -2,7 +2,7 @@ import { ButtonPrimary } from "./Button";
 
 const socialLinks = [
   {
-    href: "https://www.linkedin.com/in/bruno-morán-vivanco-1913a8268/",
+    href: "https://www.linkedin.com/in/bruno-moran-vivanco-1913a8268/",
     icon: (
       <svg
         width="24"
